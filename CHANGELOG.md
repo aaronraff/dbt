@@ -21,8 +21,7 @@ Contributors:
  - [@ilkinulas](https://github.com/ilkinulas) [#2199](https://github.com/fishtown-analytics/dbt/pull/2199)
  - [@kyleabeauchamp](https://github.com/kyleabeauchamp) [#2262](https://github.com/fishtown-analytics/dbt/pull/2262)
  - [@jeremyyeo](https://github.com/jeremyyeo) [#2259](https://github.com/fishtown-analytics/dbt/pull/2259)
- - [@sumanau7](https://github.com/sumanau7) [#2279](https://github.com/fishtown-analytics/dbt/pull/2279)
- - [@sumanau7] (https://github.com/sumanau7) [#2297](https://github.com/fishtown-analytics/dbt/pull/2297)
+ - [@sumanau7](https://github.com/sumanau7) ([#2279](https://github.com/fishtown-analytics/dbt/pull/2279), [#2297](https://github.com/fishtown-analytics/dbt/pull/2297))
 
 ## dbt 0.16.0 (March 23, 2020)
 
